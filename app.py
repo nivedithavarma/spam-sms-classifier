@@ -1,3 +1,6 @@
+import nltk
+nltk.download('stopwords')
+
 import streamlit as st
 import pickle
 import string
